@@ -14,10 +14,14 @@ A collection of professionally written lesson-based resources covering numerical
 
 ![Numerical Analysis Roadmap](images/numerical-analysis-roadmap.png)
 
-## Languages
+## Programming Languages
 
-- C for numerical implementations
-- Python for visualization, validation, and convergence studies
+Implementations may be provided in different programming languages depending on the numerical method and its purpose, including:
+
+- C for efficient numerical implementations
+- Python for visualization, validation, prototyping, and convergence studies
+- MATLAB for mathematical experimentation and comparison
+- Other languages may be added when appropriate
 
 ## Project Goals
 
@@ -55,6 +59,21 @@ A collection of professionally written lesson-based resources covering numerical
 - Conjugate Gradient
 - GMRES
 - Eigenvalue Methods
+
+  ## Lesson Format
+
+Each lesson may include:
+
+- Concise mathematical notes
+- A downloadable PDF lesson
+- The corresponding LaTeX source
+- Algorithm descriptions
+- Programming implementations
+- Worked examples
+- Applications
+- Tests and convergence studies
+- Figures and visualizations
+- References and further reading
 
 ## Status
 
